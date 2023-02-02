@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
 Template Name: NEAT
-Template URL: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Template URL: https://neat-corporate/
+Author: Valiant H.R.
+License: https://neat-corporate/license/
