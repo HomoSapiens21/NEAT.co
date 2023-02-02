@@ -1,5 +1,3 @@
-Thanks for downloading this template!
-
 Template Name: NEAT
 Template URL: https://neat-corporate/
 Author: Valiant H.R.
